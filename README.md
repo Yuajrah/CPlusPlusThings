@@ -73,43 +73,43 @@ https://light-city.club/sc/
 
 #### 2.1 [10日狂练](./practical_exercises/10_day_practice)
 
-- [x] [day1](practical_exercises/10_day_practice/day1)
+- [ ] [day1](practical_exercises/10_day_practice/day1)
 
 基本c++语法
 
-- [x] [day2](practical_exercises/10_day_practice/day2)
+- [ ] [day2](practical_exercises/10_day_practice/day2)
 
 递归、结构体、枚举、静态变量等
 
-- [x] [day3](practical_exercises/10_day_practice/day3)
+- [ ] [day3](practical_exercises/10_day_practice/day3)
 
 函数
 
-- [x] [day4](practical_exercises/10_day_practice/day4)
+- [ ] [day4](practical_exercises/10_day_practice/day4)
 
 函数深入
 
-- [x] [day5](practical_exercises/10_day_practice/day5)
+- [ ] [day5](practical_exercises/10_day_practice/day5)
 
 继承多态
 
-- [x] [day6](practical_exercises/10_day_practice/day6)
+- [ ] [day6](practical_exercises/10_day_practice/day6)
 
 虚函数、抽象类
 
-- [x] [day7](practical_exercises/10_day_practice/day7)
+- [ ] [day7](practical_exercises/10_day_practice/day7)
 
 运算符重载
 
-- [x] [day8](practical_exercises/10_day_practice/day8)
+- [ ] [day8](practical_exercises/10_day_practice/day8)
 
 模板与STL
 
-- [x] [day9](practical_exercises/10_day_practice/day9)
+- [ ] [day9](practical_exercises/10_day_practice/day9)
 
 异常
 
-- [x] [day10](practical_exercises/10_day_practice/day10)
+- [ ] [day10](practical_exercises/10_day_practice/day10)
 
 文件与流
 
